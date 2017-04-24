@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="11">
+      <Unit0>
+        <Filename Value="GNRingProcessor.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GNRingProcessor"/>
+        <EditorIndex Value="3"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="20"/>
+        <UsageCount Value="325"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="maingnringprocessor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frm_MainForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainGNRingProcessor"/>
+        <EditorIndex Value="0"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="57"/>
+        <CursorPos X="40" Y="64"/>
+        <UsageCount Value="325"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\bitDevTools\bitCommon\bitVariants.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bitVariants"/>
+        <EditorIndex Value="6"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="1"/>
+        <CursorPos X="1" Y="1"/>
+        <UsageCount Value="325"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\bitDevTools\bitDataSource\bitDataSource.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bitDataSource"/>
+        <EditorIndex Value="7"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="325"/>
+        <CursorPos X="1" Y="345"/>
+        <UsageCount Value="325"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="gnringprocessorvars.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GNRingProcessorVars"/>
+        <EditorIndex Value="5"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="65"/>
+        <CursorPos X="31" Y="79"/>
+        <UsageCount Value="325"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\bitDevTools\bitDataSource\bitMSSQLDataConnector.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="bitMSSQLDataConnector"/>
+        <EditorIndex Value="8"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="120"/>
+        <CursorPos X="1" Y="135"/>
+        <UsageCount Value="325"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="gnprocessor.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="GNProcessor"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="316"/>
+        <CursorPos X="21" Y="372"/>
+        <UsageCount Value="332"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\2.6.2\source\rtl\objpas\classes\classesh.inc"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="48"/>
+        <CursorPos X="29" Y="67"/>
+        <UsageCount Value="20"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="C:\lazarus\fpc\2.6.2\source\rtl\objpas\math.pp"/>
+        <UnitName Value="math"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2450"/>
+        <CursorPos X="3" Y="2457"/>
+        <UsageCount Value="308"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="1"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="142"/>
+        <CursorPos X="1" Y="161"/>
+        <UsageCount Value="287"/>
+        <Loaded Value="True"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <EditorIndex Value="2"/>
+        <WindowIndex Value="0"/>
+        <TopLine Value="2188"/>
+        <CursorPos X="1" Y="2199"/>
+        <UsageCount Value="287"/>
+        <Loaded Value="True"/>
+      </Unit10>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="0"/>
+    </General>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="1000" Column="1" TopLine="985"/>
+      </Position1>
+      <Position2>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="1005" Column="1" TopLine="986"/>
+      </Position2>
+      <Position3>
+        <Filename Value="maingnringprocessor.pas"/>
+        <Caret Line="66" Column="1" TopLine="56"/>
+      </Position3>
+      <Position4>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="931" Column="1" TopLine="919"/>
+      </Position4>
+      <Position5>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="932" Column="1" TopLine="919"/>
+      </Position5>
+      <Position6>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="937" Column="1" TopLine="919"/>
+      </Position6>
+      <Position7>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="153" Column="1" TopLine="142"/>
+      </Position7>
+      <Position8>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="154" Column="1" TopLine="142"/>
+      </Position8>
+      <Position9>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="159" Column="1" TopLine="142"/>
+      </Position9>
+      <Position10>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="160" Column="1" TopLine="142"/>
+      </Position10>
+      <Position11>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <Caret Line="161" Column="1" TopLine="142"/>
+      </Position11>
+      <Position12>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2170" Column="1" TopLine="2159"/>
+      </Position12>
+      <Position13>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2172" Column="1" TopLine="2159"/>
+      </Position13>
+      <Position14>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2179" Column="1" TopLine="2160"/>
+      </Position14>
+      <Position15>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2181" Column="1" TopLine="2162"/>
+      </Position15>
+      <Position16>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2182" Column="1" TopLine="2163"/>
+      </Position16>
+      <Position17>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2183" Column="1" TopLine="2164"/>
+      </Position17>
+      <Position18>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2184" Column="1" TopLine="2165"/>
+      </Position18>
+      <Position19>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2185" Column="1" TopLine="2166"/>
+      </Position19>
+      <Position20>
+        <Filename Value="C:\lazarus\lcl\include\application.inc"/>
+        <Caret Line="2199" Column="1" TopLine="2188"/>
+      </Position20>
+      <Position21>
+        <Filename Value="GNRingProcessor.lpr"/>
+        <Caret Line="20" Column="1" TopLine="1"/>
+      </Position21>
+      <Position22>
+        <Filename Value="maingnringprocessor.pas"/>
+        <Caret Line="66" Column="1" TopLine="59"/>
+      </Position22>
+      <Position23>
+        <Filename Value="maingnringprocessor.pas"/>
+        <Caret Line="73" Column="1" TopLine="58"/>
+      </Position23>
+      <Position24>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="839" Column="1" TopLine="829"/>
+      </Position24>
+      <Position25>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="68" Column="79" TopLine="59"/>
+      </Position25>
+      <Position26>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="810" Column="45" TopLine="807"/>
+      </Position26>
+      <Position27>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="1000" Column="23" TopLine="987"/>
+      </Position27>
+      <Position28>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="918" Column="13" TopLine="909"/>
+      </Position28>
+      <Position29>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="984" Column="24" TopLine="976"/>
+      </Position29>
+      <Position30>
+        <Filename Value="gnprocessor.pas"/>
+        <Caret Line="968" Column="41" TopLine="948"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="2">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="C:\lazarus\fpc\2.6.2\source\packages\fcl-db\src\sqldb\mssql\mssqlconn.pp"/>
+        <Line Value="316"/>
+      </Item1>
+      <Item2>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="..\..\..\bitDevTools\bitDataSource\bitDataSource.pas"/>
+        <Line Value="272"/>
+      </Item2>
+    </BreakPoints>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="order"/>
+      </Item1>
+      <Item2>
+        <Expression Value="o"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+  <EditorMacros Count="0"/>
+</CONFIG>

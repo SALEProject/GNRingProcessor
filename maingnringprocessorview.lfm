@@ -1,0 +1,84 @@
+object frm_MainForm: Tfrm_MainForm
+  Left = 288
+  Height = 470
+  Top = 114
+  Width = 737
+  Caption = 'frm_MainForm'
+  ClientHeight = 470
+  ClientWidth = 737
+  OnClose = FormClose
+  OnCreate = FormCreate
+  LCLVersion = '1.2.0.3'
+  object Panel1: TPanel
+    Left = 0
+    Height = 470
+    Top = 0
+    Width = 290
+    Align = alLeft
+    Caption = 'Panel1'
+    ClientHeight = 470
+    ClientWidth = 290
+    TabOrder = 0
+    object tv_Orders: TTreeView
+      Left = 1
+      Height = 448
+      Top = 21
+      Width = 288
+      Align = alClient
+      Font.Height = 18
+      ParentFont = False
+      ReadOnly = True
+      RowSelect = True
+      TabOrder = 0
+      OnChange = tv_OrdersChange
+      OnCollapsed = tv_OrdersCollapsed
+      OnExpanded = tv_OrdersExpanded
+      Options = [tvoAutoItemHeight, tvoHideSelection, tvoKeepCollapsedNodes, tvoReadOnly, tvoRowSelect, tvoShowButtons, tvoShowLines, tvoShowRoot, tvoToolTips, tvoThemedDraw]
+      Items.Data = {
+        F9FFFFFF020003000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000
+        000000050000004974656D30FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF00000000
+        0000000000050000004974656D31FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF0000
+        00000000000000050000004974656D32
+      }
+    end
+    object Panel2: TPanel
+      Left = 1
+      Height = 20
+      Top = 1
+      Width = 288
+      Align = alTop
+      Caption = 'Panel2'
+      TabOrder = 1
+    end
+  end
+  object Splitter1: TSplitter
+    Left = 290
+    Height = 470
+    Top = 0
+    Width = 5
+  end
+  object scroll: TScrollBox
+    Left = 295
+    Height = 470
+    Top = 0
+    Width = 442
+    HorzScrollBar.Page = 438
+    VertScrollBar.Page = 466
+    Align = alClient
+    ClientHeight = 466
+    ClientWidth = 438
+    TabOrder = 2
+    object img: TImage
+      Left = 0
+      Height = 90
+      Top = 0
+      Width = 90
+    end
+  end
+  object tmr: TTimer
+    Interval = 5000
+    OnTimer = tmrTimer
+    left = 216
+    top = 256
+  end
+end

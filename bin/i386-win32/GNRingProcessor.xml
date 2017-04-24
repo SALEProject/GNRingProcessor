@@ -1,0 +1,6 @@
+<GNRingProcessor>
+	<Server>db_srv</Server>
+	<Database>db_name</Database>
+	<UID>db_uid</UID>
+	<PWD>db_pwd</PWD>
+</GNRingProcessor>
